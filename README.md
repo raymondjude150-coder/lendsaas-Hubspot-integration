@@ -1,2 +1,2 @@
 # lendsaas-Hubspot-integration
-LendSaaS webhook integration with Pipedrive CRM
+LendSaaS webhook integration with Hubspot CRM
